@@ -7,11 +7,6 @@ body {
 }
 
 header {
-  background-color: #3b0a45;
-  color: #fff;
-  text-align: center;
-  padding: 2rem 1rem;
-  background-image: url('https://i.imgur.com/5gcrBrN.jpg'); /* Optional palace image */
   background-size: cover;
   background-blend-mode: multiply;
 }
